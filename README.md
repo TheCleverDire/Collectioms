@@ -1,4 +1,4 @@
-# Collectioms
+# Collections
 Extensive Collection of historic stuff I find need to be retained for its value
 
 # Why am I creating this collection
